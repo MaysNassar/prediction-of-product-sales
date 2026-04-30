@@ -3,6 +3,9 @@ Optimize inventory and pricing strategies using predictive analytics of product-
 _________________________________________________________________________________
 _________________________________________________________________________________
 
+**Author: Mays Nassar**
+
+--------------------------------------------------------------------------------
 ## Business Problem
 BigMart operates 10 retail outlets across different regions and must forecast product-level sales to:
 - Optimize inventory — avoid stockouts and overstock situations
